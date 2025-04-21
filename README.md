@@ -6,10 +6,11 @@
 ---
 
 ## 🚀 **About Me**
+- 🎯 Currently learning **Next.js 15**.
 - 🌟 Passionate about **building projects** that solve real-world problems.  
-- 💻 Currently enhancing my skills in **Data Structures & Algorithms (C++)**.  
+- 💻 Currently enhancing my skills in **Data Structures & Algorithms (C++)**.
 - 🛠 Explored **React Native** for mobile app development.  
-- 🎯 Next learning goals: **React Redux**, **TypeScript**, advance backend concepts, and **Next.js**.
+- 🎯 Next learning goals: **Payment Gateway Integration (Razorpay, Stripe, etc.)**, advance backend concepts, and **📌 Building SaaS Products using Next.js 15**.
 - I found myself enjoying system design and distributed system.
 - 📈 Actively seeking a role as a **Software Development Engineer (SDE)** or **Full-Stack Developer**.  
 
@@ -28,7 +29,7 @@
 
 ## 📚 **Next Learning Goals**
 - 📌 **Data Structures & Algorithms** in C++  
-- 📌 **Advanced Frontend Development** with React Redux, TypeScript, and Next.js  
+- 📌 **Advanced Frontend Development** zustand, and Next.js 15.  
 
 ---
 
