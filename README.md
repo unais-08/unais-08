@@ -8,6 +8,7 @@
 
 ## 🚀 **About Me**
 - 🎯 Currently learning **Next.js 15**.
+- Taken the #100daysofcode (data structure and algorithm).
 - 🌟 Passionate about **building projects** that solve real-world problems.  
 - 💻 Currently enhancing my skills in **Data Structures & Algorithms (C++)**.
 - 🛠 Explored **React Native** for mobile app development.  
