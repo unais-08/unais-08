@@ -1,42 +1,38 @@
-# Hi there! 👋 I'm Shaikh Unais  
-- [Visit My Portfolio](https://portfolio-nextjs-rho-lac.vercel.app/)  
+# 👋 Hi, I'm **Shaikh Unais**  
+🎓 Final Year Engineering Student | 💻 MERN Stack Developer  
+🔍 Exploring Web Dev | 🛠 Deep Diving into DSA (C++)  
 
-🎓 **Final year Engineering Student** | 💻 **MERN Stack Developer**  
-🔍 **Exploring Web Dev** | 🛠 **DSA in C++**  
+## 📫 Let's Connect  
+🌐 [My Portfolio](https://portfolio-nextjs-rho-lac.vercel.app/)
+- 📧 [Email Me](mailto:unaissk1577@gmail.com)  
+- 🖼️ [Project Gallery](https://project-gallery-hwlh.onrender.com/)
+---
+
+## 🚀 About Me  
+- 🎯 Currently learning **Next.js 15** and strengthening **Data Structures & Algorithms (C++)** through the **#100DaysOfCode** challenge  
+- 💡 Passionate about building real-world projects and exploring system design  
+- 📱 Dabbled with **React Native** for cross-platform apps  
+- 🛠 Upcoming goals:  
+  - Integrate **payment gateways** (Razorpay, Stripe)  
+  - Master **backend architecture** and **SaaS development** using Next.js 15  
+- 🎯 Actively seeking roles as a **Software Development Engineer (SDE)** or **Full-Stack Developer**
 
 ---
 
-## 🚀 **About Me**
-- 🎯 Currently learning **Next.js 15**.
-- Taken the #100daysofcode (data structure and algorithm).
-- 🌟 Passionate about **building projects** that solve real-world problems.  
-- 💻 Currently enhancing my skills in **Data Structures & Algorithms (C++)**.
-- 🛠 Explored **React Native** for mobile app development.  
-- 🎯 Next learning goals: **Payment Gateway Integration (Razorpay, Stripe, etc.)**, advance backend concepts, and **📌 Building SaaS Products using Next.js 15**.
-- I found myself enjoying system design and distributed system.
-- 📈 Actively seeking a role as a **Software Development Engineer (SDE)** or **Full-Stack Developer**.  
+## 🛠 Tech Stack  
+**Frontend**: React, React Native, HTML, CSS, JavaScript  
+**Backend**: Node.js, Express.js  
+**Database**: MongoDB  
+**Languages**: C++, JavaScript, Core Java, SQL  
+**Tools**: Git, Postman, ThunderClient, LaTeX, Vercel, Netlify, Render
 
 ---
 
-## 🛠 **Skills**
-- **Frontend**: `React`, `React Native`, `HTML`, `CSS`, `JavaScript`  
-- **Backend**: `Node.js`, `Express.js`  
-- **Databases**: `MongoDB`  
-- **Programming**: `C++`, `JavaScript`,`Core Java` ,`SQL`
-- **Other Tools**: `Git`, `Postman`, `ThunderClient`, `LaTex` ,`Vercel` ,`Netlify`, `Render`  
+## 🎯 Current Learning Goals  
+- 📌 Mastering **Data Structures & Algorithms** in C++  
+- 📌 Advancing in **Next.js 15** and exploring tools like **Zustand** for state management
 
 ---
 
----
-
-## 📚 **Next Learning Goals**
-- 📌 **Data Structures & Algorithms** in C++  
-- 📌 **Advanced Frontend Development** zustand, and Next.js 15.  
-
----
-
-## 📫 **Connect with Me**
-- [Email](unaissk1577@gmail.com)  
-- [Project Gallery](https://project-gallery-hwlh.onrender.com/)  
 
 
